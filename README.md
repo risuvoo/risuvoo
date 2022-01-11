@@ -22,7 +22,9 @@
       <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" width="55" height="55"/>
       <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="API" width="55" height="55"/>
       <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="55" height="55"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="" width="55" height="55"/> 
+      <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstarp" width="55" height="55"/> 
+      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="55" height="55"/> 
+      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="55" height="55"/> 
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Talk me:

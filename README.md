@@ -27,16 +27,16 @@
       <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="55" height="55"/> 
 </p>
 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> My best friend 😁:
+
+<p align="left">
+ <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="65" height="65"/> 
+</p>
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Talk me:
 
 <p align="left">
 <a href="https://twitter.com/mexuvo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mexuvo" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/mexuvo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mexuvo" height="30" width="30" /></a>&nbsp;
 <a href="https://www.facebook.com/mexuvo"><img align="center" alt="mexuvo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" /></a>
-</p>
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> My best friend 😁:
-
-<p align="left">
- <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="65" height="65"/> 
 </p>

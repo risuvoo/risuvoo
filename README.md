@@ -5,6 +5,7 @@
 <p  align="center">
 <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611ce0e6c5d3787354c64f094e487f09bb3f64e05cc&rid=giphy.gif&ct=s" alt="gif" width="300" height="300"/>
 </p>
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
 - 🏦 I'm a Frontend Developer working for a SPIRO in Bangladesh
@@ -23,6 +24,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="55" height="55"/>
       <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="" width="55" height="55"/> 
 </p>
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Talk me:
 
 <p align="left">

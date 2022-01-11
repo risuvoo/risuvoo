@@ -24,7 +24,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="" width="55" height="55"/> 
 </p>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Talk me:
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Talk me:
 
 <p align="left">
 <a href="https://twitter.com/mexuvo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mexuvo" height="30" width="30" /></a>&nbsp;

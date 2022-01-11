@@ -10,7 +10,7 @@
 
 - 🏦 I'm a Frontend Developer working for a SPIRO in Bangladesh
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.js**, **.vue**, **.jsx**, **.json**
+- 💻 I use daily **.js**, **.vue**, **.jsx**, **.json**, **.html**, **.css**
 - 📖 I am currently reading **Eloquent JavaScript 3rd edition (2018)** by Marijn Haverbeke.
 
 <p align="center">

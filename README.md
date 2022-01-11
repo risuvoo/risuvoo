@@ -10,7 +10,7 @@
 
 - 🏦 I'm a Frontend Developer working for a SPIRO in Bangladesh
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.js**, **.vue**, **.jsx**, **.json**, **.html**, **.css**
+- 💻 I use daily **.js** **.vue** **.jsx** **.json** **.html** **.css**
 - 📖 I am currently reading **Eloquent JavaScript 3rd edition (2018)** by Marijn Haverbeke.
 
 <p align="center">
@@ -36,7 +36,8 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Talk me 📱:
 
 <p align="left">
-<a href="https://twitter.com/mexuvo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mexuvo" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/mexuvo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mexuvo" height="30" width="30" /></a>&nbsp;
-<a href="https://www.facebook.com/mexuvo"><img align="center" alt="mexuvo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" /></a>
+<a href="https://twitter.com/mexuvo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mexuvo" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/mexuvo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mexuvo" height="30" width="30" /></a>&nbsp;
+<a href="https://www.facebook.com/mexuvo" target="_blank"><img align="center" alt="mexuvo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" /></a>
+<a href="mailto:rafiqulislamsuvobd@gmail.com" target="_blank"><img align="center" alt="mexuvo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" /></a>
 </p>

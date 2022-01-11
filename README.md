@@ -9,7 +9,7 @@
 <!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) -->
 <!-- ![](https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611ce0e6c5d3787354c64f094e487f09bb3f64e05cc&rid=giphy.gif&ct=s) -->
 <p  align="center">
-<img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611ce0e6c5d3787354c64f094e487f09bb3f64e05cc&rid=giphy.gif&ct=s" alt="gif" width="500" height="500"/>
+<img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611ce0e6c5d3787354c64f094e487f09bb3f64e05cc&rid=giphy.gif&ct=s" alt="gif" width="300" height="300"/>
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:

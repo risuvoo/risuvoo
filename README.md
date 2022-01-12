@@ -1,15 +1,8 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) -->
-<!-- ![](https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611ce0e6c5d3787354c64f094e487f09bb3f64e05cc&rid=giphy.gif&ct=s) -->
 <p  align="left">
 <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611ce0e6c5d3787354c64f094e487f09bb3f64e05cc&rid=giphy.gif&ct=s" alt="gif" width="200" height="200"/>
 </p>
-
-#### Stats:
-
-![Rafiqul Islam Suvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mexuvo&show_icons=true&count_private=true)
-![Rafiqul Islam Suvo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mexuvo&layout=compact)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"> About Me 🕶:
 

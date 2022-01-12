@@ -46,3 +46,8 @@
 <a href="https://www.facebook.com/mexuvo" target="_blank"><img align="center" alt="mexuvo" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" /></a>
 <a href="mailto:rafiqulislamsuvobd@gmail.com" target="_blank"><img align="center" alt="mexuvo" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" /></a>
 </p>
+
+#### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"> Status :
+
+![Rafiqul Islam Suvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mexuvo&show_icons=true&count_private=true)
+![Rafiqul Islam Suvo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mexuvo&layout=compact)

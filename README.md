@@ -2,7 +2,7 @@
 
 <!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) -->
 <!-- ![](https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611ce0e6c5d3787354c64f094e487f09bb3f64e05cc&rid=giphy.gif&ct=s) -->
-<p  align="center">
+<p  align="left">
 <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611ce0e6c5d3787354c64f094e487f09bb3f64e05cc&rid=giphy.gif&ct=s" alt="gif" width="200" height="200"/>
 </p>
 
@@ -13,7 +13,7 @@
 - 💻 I use daily **.js** **.vue** **.jsx** **.json** **.html** **.css**
 - 📖 I am currently reading **Eloquent JavaScript 3rd edition (2018)** by Marijn Haverbeke.
 
-<p align="center">
+<p align="left">
       <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> 
       <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="40" height="40"/>
       <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" width="40" height="40"/>

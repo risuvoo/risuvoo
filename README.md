@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 
-![Rafiqul Islam Suvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mexuvo&show_icons=true&count_private=true)
+![Rafiqul Islam Suvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mexuvo&show_icons=true&count_private=true){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 </p>
 

@@ -47,8 +47,3 @@
 ![Rafiqul Islam Suvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mexuvo&show_icons=true&count_private=true)
 
 </p>
-<p align="right">
-
-![Rafiqul Islam Suvo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mexuvo&layout=compact)
-
-</p>

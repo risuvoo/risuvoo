@@ -3,6 +3,11 @@
 <p  align="left">
 <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611ce0e6c5d3787354c64f094e487f09bb3f64e05cc&rid=giphy.gif&ct=s" alt="gif" width="200" height="200"/>
 </p>
+<p align="center">
+
+![Rafiqul Islam Suvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mexuvo&show_icons=true&count_private=true)
+
+</p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"> About Me 🕶:
 
@@ -38,12 +43,4 @@
 <a href="https://linkedin.com/in/mexuvo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mexuvo" height="15" width="15" /></a>&nbsp;
 <a href="https://www.facebook.com/mexuvo" target="_blank"><img align="center" alt="mexuvo" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" /></a>
 <a href="mailto:rafiqulislamsuvobd@gmail.com" target="_blank"><img align="center" alt="mexuvo" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" /></a>
-</p>
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"> Status :
-
-<p align="left">
-
-![Rafiqul Islam Suvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mexuvo&show_icons=true&count_private=true)
-
 </p>

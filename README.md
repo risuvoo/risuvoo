@@ -8,6 +8,8 @@
 
 </span>
 
+<p align="left">
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"> About Me 🕶:
 
 - 🏦 I'm a Frontend Developer working for a SPIRO in Bangladesh
@@ -43,3 +45,5 @@
 <a href="https://www.facebook.com/mexuvo" target="_blank"><img align="center" alt="mexuvo" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" /></a>
 <a href="mailto:rafiqulislamsuvobd@gmail.com" target="_blank"><img align="center" alt="mexuvo" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" /></a>
 </p>
+
+<p>

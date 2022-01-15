@@ -2,7 +2,7 @@
 
 <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611ce0e6c5d3787354c64f094e487f09bb3f64e05cc&rid=giphy.gif&ct=s" alt="gif" width="300" height="300" align="left"/>
 
-<span  align="center">
+<span  align="left">
 
 <!-- ![Rafiqul Islam Suvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mexuvo&show_icons=true&count_private=true) -->
 

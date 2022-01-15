@@ -4,6 +4,8 @@
 
 <span  align="right">
 
+<!-- ![Rafiqul Islam Suvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mexuvo&show_icons=true&count_private=true) -->
+
 ![Rafiqul Islam Suvo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mexuvo&hide=css,html,scss,php,hack)
 
 </span>

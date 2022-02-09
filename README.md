@@ -6,7 +6,7 @@
 
 <!-- ![Rafiqul Islam Suvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mexuvo&show_icons=true&count_private=true) -->
 
-![Rafiqul Islam Suvo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mexuvo&hide=css,html,scss,php,hack,vue&theme=swift)
+![Rafiqul Islam Suvo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mexuvo&hide=css,html,scss,hack,vue,shell&theme=swift)
 
 </span>
 

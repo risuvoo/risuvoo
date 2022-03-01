@@ -1,51 +1,58 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=MEXUVO&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611ce0e6c5d3787354c64f094e487f09bb3f64e05cc&rid=giphy.gif&ct=s" alt="gif" width="300" height="300" align="left"/>
+[![Typing SVG](<https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Rafiqul+Islam+Suvo;I+SPECIALIZE+===+FRONTEND+DEVELOPMENT;I+EXPERTISE+>+4+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29>)](https://git.io/typing-svg)
 
-<span  align="left">
+## Main skills:
 
-<!-- ![Rafiqul Islam Suvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mexuvo&show_icons=true&count_private=true) -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/-nuxt.js-0D1117?style=for-the-badge&logo=nuxtdotjs&labelColor=0D1117)&nbsp;
 
-![Rafiqul Islam Suvo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mexuvo&hide=css,html,scss,vue,shell,php&theme=swift)
+![React.js](https://img.shields.io/badge/-react.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![alpine.js](https://img.shields.io/badge/-alpine.js-0D1117?style=for-the-badge&logo=alpinedotjs&labelColor=0D1117)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-</span>
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![postman](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-<p align="left">
+## Tools:
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"> About Me 🕶:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
-- 🏦 I'm a Frontend Developer working for a SPIRO in Bangladesh
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.js** **.vue** **.jsx** **.json** **.html** **.css**
-- 📖 I am currently reading **Eloquent JavaScript 3rd edition (2018)** by Marijn Haverbeke.
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Macos](https://img.shields.io/badge/-Mac-0D1117?style=for-the-badge&logo=macos&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
-<p align="left">
-      <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> 
-      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="40" height="40"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" width="40" height="40"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="nuxtjs" width="40" height="40"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/alpine-13.svg" alt="alpinejs" width="40" height="40"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" width="40" height="40"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="API" width="40" height="40"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstarp" width="40" height="40"/> 
-      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="40" height="40"/> 
-      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/> 
-</p>
+## Other Knowledge:
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"> My best friend 😁:
+![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 
-<p align="left">
- <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/> 
-</p>
+## Studying in this moment:
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"> Talk me 📱:
+![Nextjs](https://img.shields.io/badge/-nextjs-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
+<br>
+<br>
+<br>
 
-<p align="left">
-<a href="https://twitter.com/mexuvo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mexuvo" height="15" width="15" /></a>&nbsp;
-<a href="https://linkedin.com/in/mexuvo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mexuvo" height="15" width="15" /></a>&nbsp;
-<a href="https://www.facebook.com/mexuvo" target="_blank"><img align="center" alt="mexuvo" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" /></a>
-<a href="mailto:rafiqulislamsuvobd@gmail.com" target="_blank"><img align="center" alt="mexuvo" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" /></a>
-</p>
+<!-- ./STAT -->
+<div align="center">
+<img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=mexuvo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="mexuvo github stats" />
+<img width="42%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mexuvo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=css,html,scss,vue,shell,php" />
+</div>
+<!-- ./STATS -->
+<div>
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=mexuvo&theme=react-dark&hide_border=true&area=true" />
+</div>
 
-<p>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mexuvo}/count.svg" /></p>
+<br></div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

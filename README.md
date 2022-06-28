@@ -8,6 +8,7 @@
 ![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-nuxt.js-0D1117?style=for-the-badge&logo=nuxtdotjs&labelColor=0D1117)&nbsp;
+![Nextjs](https://img.shields.io/badge/-nextjs-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
 
 ![React.js](https://img.shields.io/badge/-react.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![alpine.js](https://img.shields.io/badge/-alpine.js-0D1117?style=for-the-badge&logo=alpinedotjs&labelColor=0D1117)&nbsp;
@@ -36,7 +37,7 @@
 
 ## Studying in this moment:
 
-![Nextjs](https://img.shields.io/badge/-nextjs-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
+![Go](https://img.shields.io/badge/-go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
 <br>
 <br>
 <br>

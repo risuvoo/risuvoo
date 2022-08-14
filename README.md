@@ -37,7 +37,7 @@
 
 ## Studying in this moment:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 <br>
 <br>
 <br>

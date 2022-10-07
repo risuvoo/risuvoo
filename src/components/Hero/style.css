@@ -1,0 +1,38 @@
+.mexuvo-profile {
+  width: 300px;
+  height: 300px;
+  border: 14px solid #fff;
+  box-shadow: 0 20px 40px rgb(0 0 0 / 10%), 0 20px 40px hsl(0deg 0% 100% / 15%);
+}
+.mexuvo-intro .mexuvo-welcome-msg span {
+  letter-spacing: 4px;
+}
+.mexuvo-next-section {
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  bottom: 10px;
+  text-align: center;
+}
+.next-section-btn-text span {
+  letter-spacing: 3px;
+}
+/* responsive */
+@media (min-width: 640px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 1024px) {
+}
+@media (min-width: 1280px) {
+  .mexuvo-profile {
+    width: 394px;
+    height: 394px;
+    border: 14px solid #fff;
+    box-shadow: 0 20px 40px rgb(0 0 0 / 10%),
+      0 20px 40px hsl(0deg 0% 100% / 15%);
+  }
+}
+@media (min-width: 1536px) {
+}

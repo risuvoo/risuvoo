@@ -1,5 +1,4 @@
 {
-  "root": true,
   "extends": [
     "airbnb",
     "airbnb/hooks",
@@ -18,6 +17,8 @@
     "jest": true
   },
   "rules": {
+    "no-nested-ternary": 0,
+    "global-require": 0,
     "react/self-closing-comp": 0,
     "react/no-unescaped-entities": 0,
     "jsx-a11y/anchor-is-valid": 0,

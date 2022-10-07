@@ -18,6 +18,20 @@
 .next-section-btn-text span {
   letter-spacing: 3px;
 }
+.mexuvo-download-btn a {
+  box-shadow: 0 10px 15px -3px rgb(31, 31, 37), 0 4px 6px -2px rgb(31, 31, 37);
+  -webkit-box-shadow: 0 10px 15px -3px rgb(31, 31, 37),
+    0 4px 6px -2px rgb(31, 31, 37);
+  -moz-box-shadow: 0 10px 15px -3px rgb(31, 31, 37),
+    0 4px 6px -2px rgb(31, 31, 37);
+}
+.mexuvo-download-btn a:hover {
+  box-shadow: 0 20px 25px -5px rgb(31, 31, 37), 0 10px 10px -5px rgb(31, 31, 37);
+  -webkit-box-shadow: 0 20px 25px -5px rgb(31, 31, 37),
+    0 10px 10px -5px rgb(31, 31, 37);
+  -moz-box-shadow: 0 20px 25px -5px rgb(31, 31, 37),
+    0 10px 10px -5px rgb(31, 31, 37);
+}
 /* responsive */
 @media (min-width: 640px) {
 }

@@ -48,9 +48,9 @@
 <img width="42%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risuvodev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=css,html,scss,vue,shell,php,hack" />
 </div>
 <!-- ./STATS -->
-<div>
+<!-- <div>
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=risuvodev&theme=react-dark&hide_border=true&area=true" />
-</div>
+</div> -->
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>

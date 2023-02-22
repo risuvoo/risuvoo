@@ -44,16 +44,16 @@
 
 <!-- ./STAT -->
 <div align="center">
-<img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=mexuvo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="mexuvo github stats" />
-<img width="42%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mexuvo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=css,html,scss,vue,shell,php,hack" />
+<img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=risuvodev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="mexuvo github stats" />
+<img width="42%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risuvodev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=css,html,scss,vue,shell,php,hack" />
 </div>
 <!-- ./STATS -->
 <div>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=mexuvo&theme=react-dark&hide_border=true&area=true" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=risuvodev&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mexuvo}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{risuvodev}/count.svg" /></p>
 <br></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

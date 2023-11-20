@@ -33,11 +33,12 @@
 ## Other Knowledge:
 
 ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+
 
 ## Studying in this moment:
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 <br>
 <br>
 <br>

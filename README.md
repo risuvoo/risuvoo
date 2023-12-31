@@ -52,3 +52,15 @@ I'm a front-end developer focused on developing Javascript-based web application
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+
+<br>
+<br>
+<details>
+ <summary>🏆 Github Profile Trophy</summary>
+ </br>
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=risuvoo&column=5&theme=flat&margin-w=2&margin-h=2"/>
+  </a>
+ </p>
+</details>

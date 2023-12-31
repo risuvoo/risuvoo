@@ -46,6 +46,7 @@ I'm a front-end developer focused on developing Javascript-based web application
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![postman](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<br>
 
 ### Studying in this moment:
 

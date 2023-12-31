@@ -49,7 +49,7 @@ I'm a front-end developer focused on developing Javascript-based web application
 ![postman](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&logoColor=1572B6&labelColor=0D1117)&nbsp;
 <br>
 
-### Studying in this moment:
+### 🚀 Studying in this moment:
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;

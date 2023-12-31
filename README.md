@@ -29,7 +29,7 @@ I'm a front-end developer focused on developing Javascript-based web application
 
 <br>
 
-## Working with this Technology:
+### Working with this Technology:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
@@ -47,7 +47,7 @@ I'm a front-end developer focused on developing Javascript-based web application
 ![bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![postman](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-## Studying in this moment:
+### Studying in this moment:
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;

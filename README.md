@@ -10,6 +10,7 @@ I'm a front-end developer focused on developing Javascript-based web application
 - 💬 Ask me about JavaScript, Typescript, ReactJS, VueJS, AlpineJS
 - 📫 Reach me via email <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rafiqulislamsuvobd@gmail.com"> __rafiqulislamsuvobd@gmail.com__ </a>
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/risuvoo?tab=repositories)
+- - 🥅 2024 Goals: Want to be a Fullstack Web Developer.
 
 <a href="https://www.risuvo.com">
   <img align="left" alt="risuvo" src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=web&logoColor=white" />

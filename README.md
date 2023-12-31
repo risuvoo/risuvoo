@@ -29,7 +29,7 @@ I'm a front-end developer focused on developing Javascript-based web application
 
 <br>
 
-### Working with this Technology:
+### 💻 Working with this Technology:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;

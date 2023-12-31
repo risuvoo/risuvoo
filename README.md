@@ -27,4 +27,22 @@ I'm a front-end developer focused on developing Javascript-based web application
   <img align="left" alt="Rafiqul Islam Suvo| Mail" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<br>
+<be>
+
+## Working with this technology:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/-nuxt.js-0D1117?style=for-the-badge&logo=nuxtdotjs&labelColor=0D1117)&nbsp;
+![Nextjs](https://img.shields.io/badge/-nextjs-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
+
+![React.js](https://img.shields.io/badge/-react.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![alpine.js](https://img.shields.io/badge/-alpine.js-0D1117?style=for-the-badge&logo=alpinedotjs&labelColor=0D1117)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![postman](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&logoColor=1572B6&labelColor=0D1117)&nbsp;

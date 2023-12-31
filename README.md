@@ -28,6 +28,7 @@ I'm a front-end developer focused on developing Javascript-based web application
 </a>
 
 <br>
+<br>
 
 ### 💻 Working with this Technology:
 

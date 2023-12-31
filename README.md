@@ -60,7 +60,7 @@ I'm a front-end developer focused on developing Javascript-based web application
  </br>
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=risuvoo&column=5&theme=flat&margin-w=2&margin-h=2"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=risuvoo&column=4&theme=flat&margin-w=2&margin-h=2"/>
   </a>
  </p>
 </details>

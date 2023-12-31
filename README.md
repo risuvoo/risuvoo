@@ -1,7 +1,6 @@
 <div><a href="https://www.risuvo.com"><img src="https://github.com/risuvoo/risuvoo/blob/main/public/cover-4.png" alt="Cover" width="100%"></a></div>
 </br>
 </br>
-</br>
 I'm a front-end developer focused on developing Javascript-based web applications. I have 4+ years of experience in this Platform. I have already completed 40+ Frontend Projects both Products for Marketplaces and Client Projects. I can convert any Figma Template into a web application. I love to manage everything from complex logic to the awesome layout of a web application. I always like to invest myself in acquiring new skills and I can adapt myself to new technologies in a short time.
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**

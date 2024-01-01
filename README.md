@@ -9,9 +9,7 @@ I'm a front-end developer focused on developing Javascript-based web application
 - - 🥅 2024 Goals: Want to be a Fullstack Web Developer.
 - I always like working in **Jetbrains** Environment.
 - 💬 Ask me about JavaScript, Typescript, ReactJS, VueJS, AlpineJS
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rafiqulislamsuvobd@gmail.com">
-  <img align="left" alt="Rafiqul Islam Suvo | Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+ - 📫 Reach me via email <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rafiqulislamsuvobd@gmail.com"><b>rafiqulislamsuvobd@gmail.com</b> </a>
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/risuvoo?tab=repositories)
 
 <a href="https://www.risuvo.com">

@@ -11,6 +11,7 @@ I'm a front-end developer focused on developing Javascript-based web application
 - 💬 Ask me about JavaScript, Typescript, ReactJS, VueJS, AlpineJS
  - 📫 Reach me via <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rafiqulislamsuvobd@gmail.com"><b>Email</b> </a>
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/risuvoo?tab=repositories)
+- [![wakatime](https://wakatime.com/badge/user/018cc866-9a02-4acc-8aa8-50f4b09aecc3.svg)](https://wakatime.com/@018cc866-9a02-4acc-8aa8-50f4b09aecc3)
 
 <a href="https://www.risuvo.com">
   <img align="left" alt="risuvo" src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=web&logoColor=white" />

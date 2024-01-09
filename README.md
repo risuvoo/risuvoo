@@ -41,7 +41,9 @@ I'm a front-end developer focused on developing Javascript-based web application
 ![Nextjs](https://img.shields.io/badge/-nextjs-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
 
 ![React.js](https://img.shields.io/badge/-react.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Angular.js](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![alpine.js](https://img.shields.io/badge/-alpine.js-0D1117?style=for-the-badge&logo=alpinedotjs&labelColor=0D1117)&nbsp;
+![Gatsby.js](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;

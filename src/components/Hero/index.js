@@ -11,7 +11,7 @@ function Hero() {
             <div className="mexuvo-profile bg-white border-8 border-white rounded-full overflow-hidden mb-10 lg:mb-0">
               <img
                 src={require(`../../assets/img/mexuvo/mexuvo-profile-one.jpg`)}
-                alt="mexuvo"
+                alt="risuvo"
                 className="w-full h-full object-cover"
               />
             </div>
@@ -35,8 +35,8 @@ function Hero() {
               </div>
               <div className="flex md:flex-row flex-col space-y-0 md:space-y-0 md:space-x-5 space-x-0">
                 <div className="mexuvo-btn mexuvo-hire-btn mb-5">
-                  <a
-                    href="#"
+                  <a rel="noreferrer" target="_blank"
+                    href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rafiqulislamsuvobd@gmail.com"
                     className="w-64 h-12 inline-flex rounded-tr-xl transition duration-300 ease-in-out rounded-bl-xl justify-center items-center bg-mexuvo-red-500 text-white uppercase text-sm tracking-wide"
                   >
                     Emergency

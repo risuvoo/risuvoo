@@ -3,7 +3,8 @@
 <br>
 I'm a front-end developer focused on developing Javascript-based web applications. I have <b>4+</b> years of experience in this Platform. I have already completed <b>40+</b> Frontend Projects both Products for Marketplaces and Client Projects. I can convert any Figma Template into a web application. I love to manage everything from complex logic to the awesome layout of a web application. I always like to invest myself in acquiring new skills and I can adapt myself to new technologies in a short time.
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+### <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" width="40"> **About Me:**
+<!--- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**  --->
 
 - I'm aspiring 🔭️ Web Developer currently learning 🌱 **Nodejs** For Backend Contribution.
 - - 🥅 2024 Goals: Want to be a Fullstack Web Developer.

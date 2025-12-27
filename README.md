@@ -1,12 +1,12 @@
 <div><a href="https://www.risuvo.com"><img src="https://github.com/risuvoo/risuvoo/blob/main/public/cover-4.png" alt="Cover" width="100%"></a></div>
 <br>
 
-I'm a front-end developer focused on developing Javascript-based web applications. I have <b>4+</b> years of experience in this Platform. I have already completed <b>40+</b> Frontend Projects both Products for Marketplaces and Client Projects. I can convert any Figma Template into a web application. I love to manage everything from complex logic to the awesome layout of a web application. I always like to invest myself in acquiring new skills and I can adapt myself to new technologies in a short time.
+I'm a Software Engineer focused on developing Javascript-based web applications. I have <b>4+</b> years of experience in this Platform. I have already completed <b>40+</b> Frontend Projects both Products for Marketplaces and Client Projects. I can convert any Figma Template into a web application. I love to manage everything from complex logic to the awesome layout of a web application. I always like to invest myself in acquiring new skills and I can adapt myself to new technologies in a short time.
 ### **About Me:**
 - I'm aspiring 🔭️ Web Developer currently learning 🌱 **Nodejs** For Backend Contribution.
-- - 🥅 2025 Goals: Want to be a Fullstack Web Developer.
+- - 🥅 2026 Goals: Want to be a Senior Software Engineer.
 - I always like working in **Jetbrains** Environment.
-- 💬 Ask me about JavaScript, Typescript, ReactJS, VueJS, AlpineJS
+- 💬 Ask me about Javascript-based applications
  - 📫 Reach me via <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rafiqulislamsuvobd@gmail.com"><b>Email</b> </a>
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/risuvoo?tab=repositories)
 

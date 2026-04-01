@@ -7,8 +7,8 @@ I'm a Software Engineer focused on developing Javascript-based web applications.
 
 ### **About Me:**
 
-- I'm aspiring 🔭️ Web Developer currently learning Backend and System Design.
-- - 🥅 2026 Goals: Want to be a Senior Software Engineer.
+- I'm aspiring 🔭️ Software currently learning Backend and System Design.
+- - 🥅 2026 Goals: Want to be a End-to-End Software Engineering.
 - I always like working in **Agentic** Environment.
 - 💬 Ask me about Javascript-based applications
 - 📫 Reach me via <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rafiqulislamsuvobd@gmail.com"><b>Email</b> </a>

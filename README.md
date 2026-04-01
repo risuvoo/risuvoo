@@ -1,13 +1,17 @@
 <div><a href="https://www.risuvo.com"><img src="https://github.com/risuvoo/risuvoo/blob/main/public/cover-4.png" alt="Cover" width="100%"></a></div>
 <br>
 
-I'm a Software Engineer focused on developing Javascript-based web applications. I have <b>4+</b> years of experience in this Platform. I have already completed <b>40+</b> Frontend Projects both Products for Marketplaces and Client Projects. I can convert any Figma Template into a web application. I love to manage everything from complex logic to the awesome layout of a web application. I always like to invest myself in acquiring new skills and I can adapt myself to new technologies in a short time.
+I'm a Software Engineer focused on developing Javascript-based web applications. I have <b>6+</b> years of experience in this Platform. I have already completed <b>40+</b> Frontend Projects both Products for Marketplaces and Client Projects. I can convert any Figma Template into a web application. I love to manage everything from complex logic to the awesome layout of a web application. I always like to invest myself in acquiring new skills and I can adapt myself to new technologies in a short time.
+
+🚀 AI Enthusiast | Exploring AI-powered product development & automation
+
 ### **About Me:**
-- I'm aspiring 🔭️ Web Developer currently learning 🌱 **Nodejs** For Backend Contribution.
+
+- I'm aspiring 🔭️ Web Developer currently learning Backend and System Design.
 - - 🥅 2026 Goals: Want to be a Senior Software Engineer.
-- I always like working in **Jetbrains** Environment.
+- I always like working in **Agentic** Environment.
 - 💬 Ask me about Javascript-based applications
- - 📫 Reach me via <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rafiqulislamsuvobd@gmail.com"><b>Email</b> </a>
+- 📫 Reach me via <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rafiqulislamsuvobd@gmail.com"><b>Email</b> </a>
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/risuvoo?tab=repositories)
 
 <a href="https://www.risuvo.com">
@@ -36,20 +40,42 @@ I'm a Software Engineer focused on developing Javascript-based web applications.
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-nuxt.js-0D1117?style=for-the-badge&logo=nuxtdotjs&labelColor=0D1117)&nbsp;
 ![Nextjs](https://img.shields.io/badge/-nextjs-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
-
 ![React.js](https://img.shields.io/badge/-react.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Angular.js](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Angular.js](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![alpine.js](https://img.shields.io/badge/-alpine.js-0D1117?style=for-the-badge&logo=alpinedotjs&labelColor=0D1117)&nbsp;
-![Gatsby.js](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)&nbsp;
+![Gatsby.js](https://img.shields.io/badge/Gatsby-0D1117?style=for-the-badge&logo=gatsby&logoColor=white)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![postman](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&logoColor=1572B6&labelColor=0D1117)&nbsp;
-<br>
-### 🚀 Studying in this moment:
-<!-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) -->
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117)&nbsp;
+![Mongoose](https://img.shields.io/badge/-Mongoose-0D1117?style=for-the-badge&logo=mongoose&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-0D1117?style=for-the-badge&logo=nginx&labelColor=0D1117)&nbsp;
+![Apache](https://img.shields.io/badge/-Apache-0D1117?style=for-the-badge&logo=apache&labelColor=0D1117)&nbsp;
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0D1117?style=for-the-badge&logo=digitalocean&labelColor=0D1117)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117)&nbsp;
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&labelColor=0D1117)&nbsp;
+![REST API](https://img.shields.io/badge/-REST_API-0D1117?style=for-the-badge&logo=api&labelColor=0D1117)&nbsp;
+![WebSocket](https://img.shields.io/badge/-WebSocket-0D1117?style=for-the-badge&logo=socket.io&labelColor=0D1117)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&labelColor=0D1117)&nbsp;
+![RTK Query](https://img.shields.io/badge/-RTK_Query-0D1117?style=for-the-badge&logo=redux&labelColor=0D1117)&nbsp;
+![React Query](https://img.shields.io/badge/-React_Query-0D1117?style=for-the-badge&logo=reactquery&labelColor=0D1117)&nbsp;
+![Ant Design](https://img.shields.io/badge/-Ant_Design-0D1117?style=for-the-badge&logo=antdesign&labelColor=0D1117)&nbsp;
+![Material UI](https://img.shields.io/badge/-Material_UI-0D1117?style=for-the-badge&logo=mui&labelColor=0D1117)&nbsp;
+![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117)&nbsp;
+<br>
+
+### 🚀 Studying in this moment:
+
+![Go](https://img.shields.io/badge/go-0D1117.svg?style=for-the-badge&logo=go&logoColor=white)
+
 <br>

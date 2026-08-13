@@ -67,13 +67,9 @@ export async function POST(request: Request) {
     clientRate.count += 1;
     rateLimitMap.set(clientIp, clientRate);
 
-    const telegramToken =
-      process.env.TELEGRAM_BOT_TOKEN ||
-      "8867869697:AAGpEYLP1OMDXBEi98SOr_KHX_GFM55zswY";
-    const telegramChatId = process.env.TELEGRAM_CHAT_ID || "6022491066";
-    const web3Key =
-      process.env.WEB3FORMS_ACCESS_KEY ||
-      "889202da-4585-4934-a91f-f28f4f7edaaa";
+    const telegramToken = process.env.TELEGRAM_BOT_TOKEN;
+    const telegramChatId = process.env.TELEGRAM_CHAT_ID;
+    const web3Key = process.env.WEB3FORMS_ACCESS_KEY;
 
     // 1. Silent Background Dispatch to Telegram Bot API
     if (telegramToken && telegramChatId) {

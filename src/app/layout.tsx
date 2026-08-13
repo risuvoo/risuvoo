@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://risuvo.com"),
@@ -92,6 +93,7 @@ export default function RootLayout({
       <body className="antialiased selection:bg-[#e9f02c] selection:text-[#1c1917]">
         {children}
       </body>
+      <GoogleAnalytics gaId="G-9X5G9NYR56" />
     </html>
   );
 }

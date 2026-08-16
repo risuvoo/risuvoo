@@ -84,13 +84,13 @@ export const HeroSection = () => {
                   full stack developer, front end developer, front end engineer,
                   front end engineer, software developer
                 </span>
-                <span className="block opacity-0 w-0 h-0 overflow-hidden">
+                <span className="inline-block opacity-0 w-0 h-0 overflow-hidden">
                   Rafiqul Islam Shuvo
                 </span>
-                <span className="block opacity-0 w-0 h-0 overflow-hidden">
+                <span className="inline-block opacity-0 w-0 h-0 overflow-hidden">
                   Rafiqul Islam Shuvo
                 </span>
-                <span className="block opacity-0 w-0 h-0 overflow-hidden">
+                <span className="inline-block opacity-0 w-0 h-0 overflow-hidden">
                   RI Shuvo
                 </span>
               </span>

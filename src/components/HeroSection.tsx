@@ -61,8 +61,28 @@ export const HeroSection = () => {
               Hi, I&apos;m{" "}
               <span className="bg-[#e9f02c] px-2 py-0.5 border-2 border-[#1c1917] shadow-[4px_4px_0px_0px_#1c1917]">
                 RI Suvo
+                {/* keywords */}
                 <span className="opacity-0 w-0 h-0 overflow-hidden inline-block">
-                  Rafiqul Islam Suvo
+                  Rafiqul Islam Suvo, rafiqul islam suvo, Al- Jamil Suvo -
+                  Software Engineer at Meta, Rafiqul Islam Suvo - | WordPress
+                  And Shopify Expert, Suvo Dev — Web Developer, Suvo frontend
+                  developer, Suvo frontend engineer, Suvo software engineer,
+                  Suvo software developer, Suvo web developer, Suvo front end
+                  developer, Suvo front end engineer, Suvo front end software
+                  engineer, Suvo front end software developer, Suvo full stack
+                  developer, Suvo full stack engineer, Suvo full stack software
+                  engineer, Suvo full stack software developer, Suvo senior
+                  software engineer, Suvo senior software developer, React
+                  Software Engineer Next.js Software Engineer Node.js Software
+                  Engineer TypeScript Software Engineer Full Stack Developer
+                  Full Stack Software Engineer Node.js Developer Bangladesh
+                  React Developer Bangladesh Next.js Developer
+                  Bangladesh,Software Engineer Bangladesh Senior Software
+                  Engineer Bangladesh Software Engineer Dhaka Software Engineer
+                  in Dhaka Full Stack Developer Bangladesh Full Stack Software
+                  Engineer Bangladesh, Software Engineer, software engineer,
+                  full stack developer, front end developer, front end engineer,
+                  front end engineer, software developer
                 </span>
               </span>
             </h1>
@@ -215,7 +235,8 @@ export const HeroSection = () => {
                 Get Suvo&apos;s Resume
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 font-medium leading-relaxed">
-                Please enter your email address below to receive Rafiqul&apos;s complete technical resume:
+                Please enter your email address below to receive Rafiqul&apos;s
+                complete technical resume:
               </p>
             </div>
 
@@ -223,9 +244,13 @@ export const HeroSection = () => {
             {isSuccess ? (
               <div className="p-4 bg-[#e9f02c]/30 border-2 border-[#1c1917] space-y-2 text-center">
                 <CheckCircle2 className="w-8 h-8 text-[#1c1917] mx-auto" />
-                <h4 className="font-black text-base text-[#1c1917]">Request Delivered!</h4>
+                <h4 className="font-black text-base text-[#1c1917]">
+                  Request Delivered!
+                </h4>
                 <p className="text-xs font-bold text-stone-800">
-                  Rafiqul has received your request and will reach out to <span className="underline font-black">{emailInput}</span> shortly.
+                  Rafiqul has received your request and will reach out to{" "}
+                  <span className="underline font-black">{emailInput}</span>{" "}
+                  shortly.
                 </p>
               </div>
             ) : (

@@ -68,9 +68,13 @@ export const metadata: Metadata = {
     images: ["/profile_image.jpg"],
   },
   icons: {
-    icon: "/profile_image.jpg",
-    shortcut: "/profile_image.jpg",
-    apple: "/profile_image.jpg",
+    icon: [
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/favicon-48x48.png", type: "image/png", sizes: "48x48" },
+      { url: "/icon-192.png", type: "image/png", sizes: "192x192" },
+    ],
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
   },
   robots: {
     index: true,
@@ -86,9 +90,9 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <head>
-        <link rel="icon" href="/profile_image.jpg" type="image/jpeg" />
-        <link rel="shortcut icon" href="/profile_image.jpg" type="image/jpeg" />
-        <link rel="apple-touch-icon" href="/profile_image.jpg" />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" href="/favicon-48x48.png" type="image/png" sizes="48x48" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
       </head>
       <body className="antialiased selection:bg-[#e9f02c] selection:text-[#1c1917]">
         {children}

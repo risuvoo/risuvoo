@@ -84,6 +84,15 @@ export const HeroSection = () => {
                   full stack developer, front end developer, front end engineer,
                   front end engineer, software developer
                 </span>
+                <span className="block opacity-0 w-0 h-0 overflow-hidden">
+                  Rafiqul Islam Shuvo
+                </span>
+                <span className="block opacity-0 w-0 h-0 overflow-hidden">
+                  Rafiqul Islam Shuvo
+                </span>
+                <span className="block opacity-0 w-0 h-0 overflow-hidden">
+                  RI Shuvo
+                </span>
               </span>
             </h1>
 
@@ -167,7 +176,9 @@ export const HeroSection = () => {
                 <div className="relative w-full aspect-square border-2 border-[#1c1917] overflow-hidden bg-stone-100">
                   <img
                     src={personalInfo.avatarUrl}
-                    alt={personalInfo.name + " | RI Suvo, Software Engineer"}
+                    alt={
+                      personalInfo.name + " | RI Suvo, Shuvo, Software Engineer"
+                    }
                     className="w-full h-full object-cover"
                   />
                   <div className="absolute bottom-3 right-3 bg-[#e9f02c] text-[#1c1917] border-2 border-[#1c1917] px-3 py-1 font-extrabold text-xs">
@@ -181,6 +192,12 @@ export const HeroSection = () => {
                       {personalInfo.name}{" "}
                       <span className="opacity-0 w-0 h-0 overflow-hidden inline-block">
                         RI Suvo
+                      </span>
+                      <span className="block opacity-0 w-0 h-0 overflow-hidden">
+                        Rafiqul Islam Shuvo
+                      </span>
+                      <span className="block opacity-0 w-0 h-0 overflow-hidden">
+                        RI Shuvo
                       </span>
                     </h3>
                     <span className="text-xs font-bold bg-stone-100 px-2 py-1 border border-[#1c1917]">

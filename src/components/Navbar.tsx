@@ -31,6 +31,9 @@ export const Navbar = () => {
               <span className="block opacity-0 w-0 h-0 overflow-hidden">
                 RI Suvo
               </span>
+              <span className="block opacity-0 w-0 h-0 overflow-hidden">
+                Rafiqul Islam Shuvo
+              </span>
             </span>
           </a>
 

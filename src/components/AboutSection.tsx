@@ -23,6 +23,12 @@ export const AboutSection = () => {
               <span className="opacity-0 w-0 h-0 overflow-hidden inline-block">
                 RI Suvo
               </span>
+              <span className="block opacity-0 w-0 h-0 overflow-hidden">
+                Rafiqul Islam Shuvo
+              </span>
+              <span className="block opacity-0 w-0 h-0 overflow-hidden">
+                RI Shuvo
+              </span>
             </span>
           </h2>
           <p className="text-base text-stone-600 font-medium">
@@ -45,6 +51,12 @@ export const AboutSection = () => {
                 <span className="opacity-0 w-0 h-0 overflow-hidden inline-block">
                   I&apos;m RI Suvo (Rafiqul Islam Suvo)
                 </span>{" "}
+                <span className="block opacity-0 w-0 h-0 overflow-hidden">
+                  Rafiqul Islam Shuvo
+                </span>
+                <span className="block opacity-0 w-0 h-0 overflow-hidden">
+                  RI Shuvo
+                </span>
                 With over{" "}
                 <strong className="text-[#1c1917] bg-[#e9f02c] px-1">
                   6+ years of software engineering experience

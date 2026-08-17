@@ -2,6 +2,7 @@
 
 import React, { useEffect } from "react";
 import { AlertOctagon, RotateCcw, Home } from "lucide-react";
+import Link from "next/link";
 
 export default function GlobalError({
   error,
@@ -46,13 +47,13 @@ export default function GlobalError({
               <RotateCcw className="w-4 h-4" />
               <span>Retry Page</span>
             </button>
-            <a
+            <Link
               href="/"
               className="bg-white text-[#1c1917] font-extrabold uppercase px-5 py-2.5 border-2 border-[#1c1917] shadow-[3px_3px_0px_0px_#1c1917] hover:translate-x-[-1px] hover:translate-y-[-1px] flex items-center justify-center space-x-2"
             >
               <Home className="w-4 h-4" />
               <span>Home</span>
-            </a>
+            </Link>
           </div>
         </div>
       </body>

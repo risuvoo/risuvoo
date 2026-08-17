@@ -9,12 +9,12 @@ export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const navLinks = [
-    { name: "Home", href: "#home" },
-    { name: "About", href: "#about" },
-    { name: "Experience", href: "#experience" },
-    { name: "Skills", href: "#skills" },
-    { name: "Projects", href: "#projects" },
-    { name: "Contact", href: "#contact" },
+    { name: "Home", href: "/#home" },
+    { name: "About", href: "/#about" },
+    { name: "Experience", href: "/#experience" },
+    { name: "Skills", href: "/#skills" },
+    { name: "Projects", href: "/#projects" },
+    { name: "Contact", href: "/#contact" },
   ];
 
   return (
@@ -22,7 +22,7 @@ export const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
           {/* Brand Logo */}
-          <a href="#home" className="flex items-center space-x-2 group">
+          <a href="/#home" className="flex items-center space-x-2 group">
             <span className="bg-[#e9f02c] text-[#1c1917] font-black text-xl px-3 py-1 border-2 border-[#1c1917] shadow-[2px_2px_0px_0px_#1c1917] group-hover:translate-x-[1px] group-hover:translate-y-[1px]">
               RIS
             </span>
@@ -71,7 +71,7 @@ export const Navbar = () => {
               <LinkedinIcon className="w-5 h-5 text-[#1c1917]" />
             </a>
             <a
-              href="#contact"
+              href="/#contact"
               className="paper-btn-primary px-4 py-2 text-sm uppercase font-extrabold"
             >
               Let&apos;s Connect
@@ -126,7 +126,7 @@ export const Navbar = () => {
               <LinkedinIcon className="w-6 h-6" />
             </a>
             <a
-              href="#contact"
+              href="/#contact"
               onClick={() => setIsOpen(false)}
               className="paper-btn-primary px-5 py-3 text-sm uppercase font-extrabold flex-1 text-center"
             >

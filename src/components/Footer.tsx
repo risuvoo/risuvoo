@@ -1,9 +1,8 @@
 "use client";
-
-import React from "react";
 import { ArrowUp, Mail } from "lucide-react";
 import { GithubIcon, LinkedinIcon } from "@/components/Icons";
 import { personalInfo } from "@/data/portfolioData";
+import Link from "next/link";
 
 export const Footer = () => {
   const scrollToTop = () => {
@@ -16,7 +15,7 @@ export const Footer = () => {
         {/* Top Footer Section */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-6 pb-8 border-b border-stone-800">
           <div className="space-y-2 text-center md:text-left">
-            <a href="#home" className="inline-flex items-center space-x-2">
+            <Link href="/#home" className="inline-flex items-center space-x-2">
               <span className="bg-[#e9f02c] text-[#1c1917] font-black text-xl px-3 py-1 border-2 border-white">
                 RIS
               </span>
@@ -26,9 +25,11 @@ export const Footer = () => {
                   RI Suvo
                 </span>
               </span>
-            </a>
+            </Link>
             <p className="text-xs text-stone-400 font-medium max-w-md">
-              Senior Software Engineer with 6+ years of experience building modern frontend development, micro-frontends, Node.js backend services, and scalable enterprise solutions.
+              Senior Software Engineer with 6+ years of experience building
+              modern frontend development, micro-frontends, Node.js backend
+              services, and scalable enterprise solutions.
             </p>
           </div>
 
@@ -65,24 +66,24 @@ export const Footer = () => {
         {/* Navigation & Back to Top */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-bold text-stone-400">
           <div className="flex flex-wrap justify-center gap-6 uppercase tracking-wider text-stone-300">
-            <a href="#home" className="hover:text-[#e9f02c]">
+            <Link href="/#home" className="hover:text-[#e9f02c]">
               Home
-            </a>
-            <a href="#about" className="hover:text-[#e9f02c]">
+            </Link>
+            <Link href="/#about" className="hover:text-[#e9f02c]">
               About
-            </a>
-            <a href="#experience" className="hover:text-[#e9f02c]">
+            </Link>
+            <Link href="/#experience" className="hover:text-[#e9f02c]">
               Experience
-            </a>
-            <a href="#skills" className="hover:text-[#e9f02c]">
+            </Link>
+            <Link href="/#skills" className="hover:text-[#e9f02c]">
               Skills
-            </a>
-            <a href="#projects" className="hover:text-[#e9f02c]">
+            </Link>
+            <Link href="/#projects" className="hover:text-[#e9f02c]">
               Projects
-            </a>
-            <a href="#contact" className="hover:text-[#e9f02c]">
+            </Link>
+            <Link href="/#contact" className="hover:text-[#e9f02c]">
               Contact
-            </a>
+            </Link>
           </div>
 
           <button
